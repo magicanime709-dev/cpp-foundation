@@ -13,6 +13,7 @@ This repository contains my beginner-level practice and learning journey in **C+
 * **Functions & Pointers**
 * **Pattern Printing**
 * **Strings**
+* **Vector**
 
 ##  Purpose
 
